@@ -6,7 +6,7 @@ Intel® XeSS Inspector is a powerful debugging and validation tool designed for 
 
 ## Download
 
-Download the latest build from the [Releases page](https://github.com/GameTechDev/XeSSInspector/releases).
+Download the latest build `v2.1.0` from the [Releases page](https://github.com/GameTechDev/XeSSInspector/releases).
 
 ## Key Features
 
