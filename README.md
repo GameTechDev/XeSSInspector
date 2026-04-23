@@ -2,7 +2,7 @@
 
 Intel® XeSS Inspector is a powerful debugging and validation tool designed for [Intel® XeSS](https://gamedev.intel.com/xess). It supports Intel® XeSS Super Resolution (XeSS-SR), Intel® XeSS Frame Generation (XeSS-FG), and Intel® Xe Low Latency (XeLL).
 
-<img src="image/overview.png" alt="Overview" width="70%" />
+<img src="image/overview.png" alt="Overview" width="100%" />
 
 ## Download
 
